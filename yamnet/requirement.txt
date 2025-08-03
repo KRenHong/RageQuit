@@ -5,3 +5,4 @@ tensorflow-hub
 librosa
 numpy
 soundfile
+python-multipart
